@@ -1,3 +1,4 @@
 # student-apna-college
+
 This is my Git Repository <br>
-Author - Sundar Veluri
+Author - Sundar Veluri (CEO)
